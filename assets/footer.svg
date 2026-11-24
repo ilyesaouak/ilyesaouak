@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140">
+  <defs><clipPath id="c"><rect width="1200" height="140" rx="0"/></clipPath></defs>
+  <g clip-path="url(#c)"><path d="M0 60 Q 150 30 300 60 T 600 60 T 900 60 T 1200 60 T 1500 60 T 1800 60 V 140 H 0 Z" fill="#00f5ff" fill-opacity="0.25"><animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="6s" repeatCount="indefinite"/></path><path d="M0 72 Q 150 42 300 72 T 600 72 T 900 72 T 1200 72 T 1500 72 T 1800 72 V 140 H 0 Z" fill="#8b5cf6" fill-opacity="0.40"><animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="8s" repeatCount="indefinite"/></path><path d="M0 84 Q 150 54 300 84 T 600 84 T 900 84 T 1200 84 T 1500 84 T 1800 84 V 140 H 0 Z" fill="#ff2bd6" fill-opacity="0.55"><animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="10s" repeatCount="indefinite"/></path></g>
+  <text x="600" y="118" text-anchor="middle" style="font: 700 18px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 4px;" fill="#ffffff">THANKS FOR STOPPING BY</text>
+</svg>
