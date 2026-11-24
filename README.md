@@ -11,26 +11,19 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 👋 About me
+<img src="assets/title-about.svg" width="100%" alt="About me"/>
 
-```kotlin
-data class Developer(
-    val name: String      = "Ilyes Saouak",
-    val location: String  = "Hannover, Germany",
-    val role: String      = "Software Developer",
-    val builds: List<String> = listOf("Android apps", "Flutter apps", "Full-stack web apps"),
-    val favorites: List<String> = listOf("Kotlin", "TypeScript", "Dart"),
-    val status: String    = "Open for projects 🚀",
-)
-```
+<p align="center">
+  <img src="assets/about.svg" width="100%" alt="Hi, I'm Ilyes, a software developer based in Hannover, Germany. I build mobile apps with Kotlin and Flutter, and web apps with Angular, Next.js and TypeScript. Open for projects."/>
+</p>
 
-- I build **mobile apps** (Kotlin, Flutter) and **web apps** (Angular, Next.js, TypeScript).
-- Latest project: [**Wi-Fi Extender**](https://github.com/ilyesaouak/wifiextender), which turns an old Android phone into a Wi-Fi extender, no root needed.
-- Got a project or an idea? [Send me an email](mailto:elyes.sawak@gmail.com).
+<p align="center">
+  🚀 Latest project: <a href="https://github.com/ilyesaouak/wifiextender"><b>Wi-Fi Extender</b></a>, which turns an old Android phone into a Wi-Fi extender &nbsp;•&nbsp; 💬 Got an idea? <a href="mailto:elyes.sawak@gmail.com"><b>Let's talk</b></a>
+</p>
 
 <img src="assets/divider.svg" width="100%"/>
 
-## Tech stack
+<img src="assets/title-stack.svg" width="100%" alt="Tech stack"/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,dart,flutter,ts,js,python,php&theme=dark" alt="Languages"/>
@@ -40,7 +33,7 @@ data class Developer(
 
 <img src="assets/divider.svg" width="100%"/>
 
-## Featured projects
+<img src="assets/title-projects.svg" width="100%" alt="Featured projects"/>
 
 <p align="center">
   <a href="https://github.com/ilyesaouak/wifiextender"><img src="assets/card-wifiextender.svg" width="49%" alt="Wi-Fi Extender"/></a>
@@ -53,7 +46,7 @@ data class Developer(
 
 <img src="assets/divider.svg" width="100%"/>
 
-## GitHub stats
+<img src="assets/title-stats.svg" width="100%" alt="GitHub stats"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilyesaouak&show_icons=true&theme=radical&hide_border=true&bg_color=0b0620&title_color=00f5ff&icon_color=ff2bd6&text_color=e6e1ff&count_private=true" height="180" alt="GitHub stats"/>
