@@ -11,7 +11,7 @@
 
 <img src="assets/divider.svg?v=3" width="100%"/>
 
-<img src="assets/title-about.svg?v=3" width="100%" alt="About me"/>
+<img src="assets/heading-about.svg" width="100%" alt="About me"/>
 
 <p align="center">
   <img src="assets/about.svg?v=3" width="100%" alt="Hi, I'm Ilyes, a software developer based in Hannover, Germany. I build mobile apps with Kotlin and Flutter, and web apps with Angular, Next.js and TypeScript. Open for projects."/>
@@ -23,7 +23,7 @@
 
 <img src="assets/divider.svg?v=3" width="100%"/>
 
-<img src="assets/title-stack.svg?v=3" width="100%" alt="Tech stack"/>
+<img src="assets/heading-stack.svg" width="100%" alt="Tech stack"/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,dart,flutter,ts,js,python,php&theme=dark" alt="Languages"/>
@@ -33,7 +33,7 @@
 
 <img src="assets/divider.svg?v=3" width="100%"/>
 
-<img src="assets/title-projects.svg?v=3" width="100%" alt="Featured projects"/>
+<img src="assets/heading-projects.svg" width="100%" alt="Featured projects"/>
 
 <p align="center">
   <a href="https://github.com/ilyesaouak/wifiextender"><img src="assets/card-wifiextender.svg?v=3" width="49%" alt="Wi-Fi Extender"/></a>
@@ -46,7 +46,7 @@
 
 <img src="assets/divider.svg?v=3" width="100%"/>
 
-<img src="assets/title-stats.svg?v=3" width="100%" alt="GitHub stats"/>
+<img src="assets/heading-stats.svg" width="100%" alt="GitHub stats"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilyesaouak&show_icons=true&theme=radical&hide_border=true&bg_color=0b0620&title_color=00f5ff&icon_color=ff2bd6&text_color=e6e1ff&count_private=true" height="180" alt="GitHub stats"/>
