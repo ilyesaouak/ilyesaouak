@@ -6,15 +6,19 @@
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#00f5ff"/><stop offset="1" stop-color="#00f5ff" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#14062e"/><stop offset="1" stop-color="#0b0620"/>
+    </linearGradient>
   </defs>
-  <g transform="translate(18 40)">
+  <rect x="1.5" y="6" width="1197" height="68" rx="14" fill="url(#bar)" stroke="#00f5ff" stroke-opacity="0.45" stroke-width="1.5"/>
+  <g transform="translate(34 40)">
     <rect x="-8" y="-8" width="16" height="16" fill="none" stroke="#00f5ff" stroke-width="2.5" filter="url(#glow)">
       <animateTransform attributeName="transform" type="rotate" values="45;405" dur="6s" repeatCount="indefinite"/>
     </rect>
     <circle r="3" fill="#00f5ff"/>
   </g>
-  <text x="48" y="51" filter="url(#glow)" style="font: 900 32px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 5px;" fill="#ffffff">GITHUB STATS</text>
-  <rect x="406" y="38" height="3" rx="1.5" width="0" fill="url(#line)">
-    <animate attributeName="width" values="0;784;784" keyTimes="0;0.4;1" dur="4s" repeatCount="indefinite"/>
+  <text x="64" y="51" filter="url(#glow)" style="font: 900 32px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 5px;" fill="#ffffff">GITHUB STATS</text>
+  <rect x="422" y="38" height="3" rx="1.5" width="0" fill="url(#line)">
+    <animate attributeName="width" values="0;754;754" keyTimes="0;0.4;1" dur="4s" repeatCount="indefinite"/>
   </rect>
 </svg>
